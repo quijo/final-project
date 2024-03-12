@@ -1,0 +1,14 @@
+nav{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+nav a{
+    background-color: yellow;
+    padding: 5px 10px;
+    text-decoration: none;
+}
+nav a:hover {
+    background-color: black;
+    color:white;
+}
